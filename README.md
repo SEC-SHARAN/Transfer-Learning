@@ -130,20 +130,23 @@ train_losses, val_losses = train_model(model, train_loader, test_loader, num_epo
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 *(Example Plot)*
-![alt text](/Images/image.png)
+<img width="651" height="267" alt="image" src="https://github.com/user-attachments/assets/580875d7-f44f-4b62-acbd-9345a66be0a3" />
+
 
 ### Confusion Matrix
 
-![alt text](/Images/image-1.png)
+<img width="924" height="691" alt="image" src="https://github.com/user-attachments/assets/4126a558-0f24-4562-af2b-4bb86a7e1956" />
+
 
 ### Classification Report
 
-![alt text](/Images/image-2.png)
+<img width="631" height="287" alt="image" src="https://github.com/user-attachments/assets/552343f3-88c0-4625-a554-f0dde90b4253" />
+
 
 ### New Sample Prediction
 
-![alt text](/Images/image-3.png)
-![alt text](/Images/image-4.png)
+<img width="501" height="503" alt="image" src="https://github.com/user-attachments/assets/07f4794a-ab53-4720-900f-5d17355e5406" />
+
 
 ---
 
